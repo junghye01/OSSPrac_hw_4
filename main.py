@@ -3,7 +3,7 @@ college_class=input('학번을 입력하세요: ')
 major=input('학과를 입력하세요: ')
 school=input('학교를 입력하세요: ')
 
-print('\<출력>')
+print('\n<출력>')
 print('이름:',name)
 print('학번:',college_class)
 print('학과:',major)
